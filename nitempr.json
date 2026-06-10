@@ -1,9 +1,9 @@
 {
   "maps": [
     {
-      "name": "Building Infinite",
-      "image": "https://raw.githubusercontent.com/kodizar/majula/main/jula4.jpg",
-      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/laskotak.zip"
+      "name": "Titan Toilet",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/astit.jpg",
+      "file": "https://github.com/elisjaenudin/kamarang/releases/download/v1.0.0/monster1.zip"
     }
   ]
 }

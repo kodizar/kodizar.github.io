@@ -1,11 +1,11 @@
 {
   "Earning": [
     {
-      "admob_banner": "ca-app-pub-3940256099942544/",
-      "admob_native": "ca-app-pub-3940256099942544/",
-      "admob_inter_one": "ca-app-pub-3940256099942544/",
-      "admob_inter_two": "ca-app-pub-3940256099942544/",
-      "admob_open": "ca-app-pub-3940256099942544/",
+      "admob_banner": "ca-app-pub-2741234015952161/5014655544",
+      "admob_native": "ca-app-pub-2741234015952161/9385145395",
+      "admob_inter_one": "ca-app-pub-2741234015952161/3297954043",
+      "admob_inter_two": "ca-app-pub-2741234015952161/",
+      "admob_open": "ca-app-pub-2741234015952161/3062150329",
       "unity_inter": "Interstitial_Android",
       "unity_game_id": "xxxxxxx"
     }

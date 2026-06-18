@@ -1,9 +1,9 @@
 {
   "maps": [
     {
-      "name": "Building City",
-      "image": "https://raw.githubusercontent.com/kodizar/majula/main/jula8.jpg",
-      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/laskotak.zip"
+      "name": "Spider Hero",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/bazpid.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/maps2.zip"
     }
   ]
 }

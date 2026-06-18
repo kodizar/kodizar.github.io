@@ -1,8 +1,8 @@
 {
   "maps": [
     {
-      "name": "Building Master",
-      "image": "https://raw.githubusercontent.com/kodizar/majula/main/jula8.jpg",
+      "name": "World Survival",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/mansurv.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/laskotak.zip"
     }
   ]

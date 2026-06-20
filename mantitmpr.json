@@ -1,0 +1,9 @@
+{
+  "maps": [
+    {
+      "name": "Titan Monster",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/turmon.jpg",
+      "file": "https://github.com/elisjaenudin/kamarang/releases/download/v1.0.0/monster1.zip"
+    }
+  ]
+}

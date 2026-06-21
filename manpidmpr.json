@@ -26,6 +26,11 @@
       "file": "https://github.com/elisjaenudin/koleket/releases/download/candil/bogalax.zip"
     },
 	{
+      "name": "Elemental ALT",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/elemalt.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/elemalt.zip"
+    },
+	{
       "name": "Shinobi Ninja",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/noko.jpg",
       "file": "https://raw.githubusercontent.com/kodizar/majula/main/shinin.zip"
@@ -66,9 +71,29 @@
       "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/flykotak.zip"
     },
 	{
+      "name": "Zoo Tycoon",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/zotyco.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/zotyco.zip"
+    },
+	{
+      "name": "Dragon World",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/drawod.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/drawod.zip"
+    },
+	{
+      "name": "Dino World",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/dinwor.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/dinwor.zip"
+    },
+	{
       "name": "Titan Battle",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/monster1.jpg",
       "file": "https://github.com/elisjaenudin/kamarang/releases/download/v1.0.0/monster1.zip"
+    },
+	{
+      "name": "Ocean Monster",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/ocemons.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/ocemons.zip"
     },
 	{
       "name": "Italian Brainrot",

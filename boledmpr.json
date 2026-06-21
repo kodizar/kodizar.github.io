@@ -41,6 +41,11 @@
       "file": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/fmimic.zip"
     },
 	{
+      "name": "Ocean Monster",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/ocemons.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/ocemons.zip"
+    },
+	{
       "name": "Magic Beats",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/spunkymagic.png",
       "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/spunkymagic.zip"
@@ -64,6 +69,11 @@
       "name": "Omnitrix Alien",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/beluh.jpg",
       "file": "https://github.com/elisjaenudin/koleket/releases/download/candil/alisepu.zip"
+    },
+	{
+      "name": "Elemental ALT",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/elemalt.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/elemalt.zip"
     },
     {
       "name": "Elemental Galaxi",
@@ -104,6 +114,21 @@
       "name": "Spongeland World",
       "image": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/spongela.jpg",
       "file": "https://github.com/elisjaenudin/koleket/releases/download/candil/spongela.zip"
+    },
+	{
+      "name": "Zoo Tycoon",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/zotyco.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/zotyco.zip"
+    },
+	{
+      "name": "Dragon World",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/drawod.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/drawod.zip"
+    },
+	{
+      "name": "Dino World",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/dinwor.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/dinwor.zip"
     },
 	{
       "name": "One Block",

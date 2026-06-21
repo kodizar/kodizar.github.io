@@ -1,0 +1,34 @@
+{
+  "maps": [
+    {
+      "name": "Pianosaurus Arena",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/pianbet.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/pianbet.zip"
+    },
+	{
+      "name": "Elemental ALT",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/elemalt.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/elemalt.zip"
+    },
+	{
+      "name": "Zoo Tycoon",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/zotyco.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/zotyco.zip"
+    },
+	{
+      "name": "Ocean Monster",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/ocemons.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/ocemons.zip"
+    },
+	{
+      "name": "Dragon World",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/drawod.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/drawod.zip"
+    },
+	{
+      "name": "Dino World",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/dinwor.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/dinwor.zip"
+    }
+  ]
+}

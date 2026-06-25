@@ -2,12 +2,12 @@
   "Gallon": [
     {
 	  "inters_home": "ca-app-pub-5100438264160728/",
-	  "inters_main": "ca-app-pub-5100438264160728/",
-	  "inters_exit_world": "ca-app-pub-5100438264160728/",
-	  "inters_repeat_main": "ca-app-pub-5100438264160728/",
-	  "admob_openAd": "ca-app-pub-5100438264160728/",
-      "admob_reward": "ca-app-pub-5100438264160728/",
-      "delay_home": 5000,
+	  "inters_main": "ca-app-pub-5100438264160728/1808616390",
+	  "inters_exit_world": "ca-app-pub-5100438264160728/1808616390",
+	  "inters_repeat_main": "ca-app-pub-5100438264160728/1808616390",
+	  "admob_openAd": "ca-app-pub-5100438264160728/4578249965",
+      "admob_reward": "ca-app-pub-5100438264160728/2681094109",
+      "delay_home": 10000,
 	  "delay_main": 50000,
       "delay_repeat_main": 60000,
 	  "unity_inter": "Interstitial_Android",
@@ -15,7 +15,7 @@
       "first_unity_ads": 40000,
       "repeat_unity_ads": 360000,
 	  "latest_version": "1",
-	  "play_store_url": "https://play.google.com/store/apps/details?id=com.xxxxxx.xxxxx"
+	  "play_store_url": "https://play.google.com/store/apps/details?id=com.kepitingdev.maxicraft.buildandxplore"
     }
   ]
 }

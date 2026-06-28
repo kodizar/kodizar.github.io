@@ -16,6 +16,21 @@
       "file": "https://github.com/kodizar/majula/releases/download/lotek/nuanbus.zip"
     },
 	{
+      "name": "Bus Pariwisata",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/mizubus.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/mizubus.zip"
+    },
+	{
+      "name": "Nuansa Santri",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/masanti.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/masanti.zip"
+    },
+	{
+      "name": "Nuansa Ramadhan",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/nuanramad.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/nuanramad.zip"
+    },
+	{
       "name": "Kereta Kota MeyKorta",
       "image": "https://raw.githubusercontent.com/kodizar/majula/main/nuankakot.jpg",
       "file": "https://github.com/kodizar/majula/releases/download/lotek/nuankakot.zip"

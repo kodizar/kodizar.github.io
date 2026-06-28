@@ -1,0 +1,14 @@
+{
+  "maps": [
+    {
+      "name": "Shinobi Ninja",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/shinotwo.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/shinin.zip"
+    },
+	{
+      "name": "Ninja Konoha",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/niad.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/nakon.zip"
+    }
+  ]
+}

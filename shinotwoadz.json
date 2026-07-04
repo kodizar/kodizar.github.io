@@ -7,7 +7,7 @@
 	  "inters_repeat_main": "ca-app-pub-5100438264160728/8691586842",
 	  "admob_openAd": "ca-app-pub-5100438264160728/1461947013",
       "admob_reward": "ca-app-pub-5100438264160728/2463816697",
-      "delay_home": 5000,
+      "delay_home": 10000,
 	  "delay_main": 50000,
       "delay_repeat_main": 120000,
 	  "unity_inter": "Interstitial_Android",

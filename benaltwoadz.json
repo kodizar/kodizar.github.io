@@ -7,7 +7,7 @@
 	  "inters_repeat_main": "ca-app-pub-5100438264160728/5546548758",
 	  "admob_openAd": "ca-app-pub-5100438264160728/4154635529",
       "admob_reward": "ca-app-pub-5100438264160728/5010088989",
-      "delay_home": 5000,
+      "delay_home": 10000,
 	  "delay_main": 50000,
       "delay_repeat_main": 60000,
 	  "unity_inter": "Interstitial_Android",
@@ -15,7 +15,7 @@
       "first_unity_ads": 40000,
       "repeat_unity_ads": 360000,
 	  "latest_version": "1",
-	  "play_store_url": "https://play.google.com/store/apps/details?id=com.xxxxxx.xxxxx"
+	  "play_store_url": "https://play.google.com/store/apps/details?id=com.kepitingdev.omnicall.alienprankcall"
     }
   ]
 }

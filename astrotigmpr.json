@@ -1,7 +1,7 @@
 {
   "maps": [
     {
-      "name": "Toilet Titans",
+      "name": "Toilet Titan",
       "image": "https://raw.githubusercontent.com/kodizar/majula/main/asrto.jpg",
       "file": "https://github.com/elisjaenudin/kamarang/releases/download/v1.0.0/monster1.zip"
     },
@@ -81,7 +81,7 @@
       "file": "https://github.com/elisjaenudin/koleket/releases/download/candil/beatsepu.zip"
     },
 	{
-      "name": "Fun Italian Brainrot",
+      "name": "Italian Brainrot",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/monster3.jpg",
       "file": "https://github.com/elisjaenudin/kamarang/releases/download/v1.0.0/monster3.zip"
     },

@@ -1,0 +1,19 @@
+{
+  "maps": [
+    {
+      "name": "Exploration Craft",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/lokextwo.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/drawod.zip"
+    },
+	{
+      "name": "Modern City",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/irmodti.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/irmodti.zip"
+    },
+	{
+      "name": "Dino World",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/dinwor.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/dinwor.zip"
+    }
+  ]
+}

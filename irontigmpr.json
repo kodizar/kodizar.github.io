@@ -1,0 +1,14 @@
+{
+  "maps": [
+    {
+      "name": "Iron Hero City",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/maps2.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/maps1.zip"
+    },
+	{
+      "name": "Iron Powerful Skills",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/maps3.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/maps3.zip"
+    }
+  ]
+}

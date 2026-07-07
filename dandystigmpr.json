@@ -1,0 +1,29 @@
+{
+  "maps": [
+    {
+      "name": "Dandy's World",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow2.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow2.zip"
+    },
+	{
+      "name": "Dandys Fun Adventure",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow3.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow3.zip"
+    },
+	{
+      "name": "Dandy's World Horror",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/denho.jpg",
+      "file": "https://github.com/elisjaenudin/warnawarni/releases/download/v1/denho.zip"
+    },
+	{
+      "name": "Dandys Pink House",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/pinkrum.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/pinkrum.zip"
+    },
+	{
+      "name": "Dandys Pink Mansion",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/piksion.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/piksion.zip"
+    }
+  ]
+}

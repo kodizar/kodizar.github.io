@@ -156,6 +156,11 @@
       "file": "https://raw.githubusercontent.com/kodizar/majula/main/drawod.zip"
     },
 	{
+      "name": "Pixelmon",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/pokis.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/pokis.zip"
+    },
+	{
       "name": "Dino World",
       "image": "https://raw.githubusercontent.com/kodizar/majula/main/dinwor.jpg",
       "file": "https://github.com/kodizar/majula/releases/download/lotek/dinwor.zip"
@@ -182,8 +187,8 @@
     },
 	{
       "name": "The Boiled One",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/boiledone.jpg",
-      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/boiledone.zip"
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/boilo.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/boilo.zip"
     },
 	{
       "name": "The Evil Nun",

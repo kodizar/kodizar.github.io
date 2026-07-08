@@ -56,6 +56,11 @@
       "file": "https://github.com/elisjaenudin/koleket/releases/download/candil/spongela.zip"
     },
 	{
+      "name": "Pixelmon",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/pokis.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/pokis.zip"
+    },
+	{
       "name": "Spider in City",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/termospanas1.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/maps2.zip"
@@ -127,8 +132,8 @@
     },
 	{
       "name": "The Boiled One",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/boiledone.jpg",
-      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/boiledone.zip"
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/boilo.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/boilo.zip"
     },
 	{
       "name": "The Evil Nun",

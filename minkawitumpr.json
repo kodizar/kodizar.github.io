@@ -16,7 +16,37 @@
       "file": "https://github.com/kodizar/majula/releases/download/lotek/zotyco.zip"
     },
 	{
-      "name": "Osaka Craft",
+      "name": "Cherry Blossoms House",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/cherhous.jpeg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/cherhous.zip"
+    },
+	{
+      "name": "Aphmau House",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/aphous.jpeg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/aphous.zip"
+    },
+	{
+      "name": "Lovely Mecha",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/lovmec.jpeg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/lovmec.zip"
+    },
+	{
+      "name": "Mermaid Quest",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/merque.jpeg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/merque.zip"
+    },
+	{
+      "name": "Anime Waifu",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/anwaifu.jpeg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/anwaifu.zip"
+    },
+	{
+      "name": "Demon Slayer",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/deslay.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/deslay.zip"
+    },
+	{
+      "name": "Osaka World",
       "image": "https://raw.githubusercontent.com/kodizar/majula/main/osacit.jpg",
       "file": "https://github.com/kodizar/majula/releases/download/lotek/osacit.zip"
     },

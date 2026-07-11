@@ -21,6 +21,11 @@
       "file": "https://github.com/kodizar/majula/releases/download/lotek/dinwor.zip"
     },
 	{
+      "name": "Animal World",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/animwo.jpeg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/animwo.zip"
+    },
+	{
       "name": "One Block",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/stukotak.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/stukotak.zip"

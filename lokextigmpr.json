@@ -16,6 +16,11 @@
       "file": "https://github.com/kodizar/majula/releases/download/lotek/dinwor.zip"
     },
 	{
+      "name": "Verity",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/verhot.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/verhot.zip"
+    },
+	{
       "name": "Osaka Craft",
       "image": "https://raw.githubusercontent.com/kodizar/majula/main/osacit.jpg",
       "file": "https://github.com/kodizar/majula/releases/download/lotek/osacit.zip"
@@ -191,11 +196,6 @@
       "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow2.zip"
     },
 	{
-      "name": "Dandys Adventure",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow3.jpg",
-      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/rainbow3.zip"
-    },
-	{
       "name": "Dandy's Horror",
       "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/denho.jpg",
       "file": "https://github.com/elisjaenudin/warnawarni/releases/download/v1/denho.zip"
@@ -209,6 +209,26 @@
       "name": "Kawaii Pink Mansion",
       "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/piksion.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/piksion.zip"
+    },
+	{
+      "name": "Cherry Blossoms House",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/cherhous.jpeg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/cherhous.zip"
+    },
+	{
+      "name": "Aphmau House",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/aphous.jpeg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/aphous.zip"
+    },
+	{
+      "name": "Lovely Mecha",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/lovmec.jpeg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/lovmec.zip"
+    },
+	{
+      "name": "Mermaid Quest",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/merque.jpeg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/merque.zip"
     }
   ]
 }

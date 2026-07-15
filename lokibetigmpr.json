@@ -15,6 +15,16 @@
       "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/stukotak.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/stukotak.zip"
     },
+	{
+      "name": "Verity",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/verhot.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/verhot.zip"
+    },
+	{
+      "name": "Animal World",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/animwo.jpeg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/animwo.zip"
+    },
     {
       "name": "Luckyblock Island",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/laskotak.jpg",
@@ -102,8 +112,8 @@
     },
 	{
       "name": "The Boiled One",
-      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/boiledone.jpg",
-      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/boiledone.zip"
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/boilo.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/boilo.zip"
     },
 	{
       "name": "The Evil Nun",
@@ -159,6 +169,46 @@
       "name": "Pet Adventure",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/petadvent.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/petadvent.zip"
+    },
+	{
+      "name": "Kawai Pink House",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/pinkrum.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/pinkrum.zip"
+    },
+	{
+      "name": "Kawai Pink Mansion",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/piksion.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/warnawarni/main/piksion.zip"
+    },
+	{
+      "name": "Cherry Blossoms House",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/cherhous.jpeg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/cherhous.zip"
+    },
+	{
+      "name": "Aphmau House",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/aphous.jpeg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/aphous.zip"
+    },
+	{
+      "name": "Lovely Mecha",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/lovmec.jpeg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/lovmec.zip"
+    },
+	{
+      "name": "Mermaid Quest",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/merque.jpeg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/merque.zip"
+    },
+	{
+      "name": "Anime Waifu",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/anwaifu.jpeg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/anwaifu.zip"
+    },
+	{
+      "name": "Demon Slayer",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/koleket/main/deslay.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/deslay.zip"
     }
   ]
 }

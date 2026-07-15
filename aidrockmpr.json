@@ -1,0 +1,9 @@
+{
+  "maps": [
+	{
+      "name": "Bedrock",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/mandrock.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/verhot.zip"
+    }
+  ]
+}

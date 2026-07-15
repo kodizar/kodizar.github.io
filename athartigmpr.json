@@ -16,6 +16,11 @@
       "file": "https://raw.githubusercontent.com/kodizar/majula/main/irmodti.zip"
     },
 	{
+      "name": "Verity",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/verhot.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/verhot.zip"
+    },
+	{
       "name": "Dino World",
       "image": "https://raw.githubusercontent.com/kodizar/majula/main/dinwor.jpg",
       "file": "https://github.com/kodizar/majula/releases/download/lotek/dinwor.zip"

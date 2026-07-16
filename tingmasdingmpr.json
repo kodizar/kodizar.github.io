@@ -1,0 +1,9 @@
+{
+  "maps": [
+	{
+      "name": "Master Building",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/masding.jpeg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/manpro.zip"
+    }
+  ]
+}

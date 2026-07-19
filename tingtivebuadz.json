@@ -1,12 +1,12 @@
 {
   "Gallon": [
     {
-	  "inters_home": "ca-app-pub-5100438264160728/",
-	  "inters_main": "ca-app-pub-5100438264160728/",
-	  "inters_exit_world": "ca-app-pub-5100438264160728/",
-	  "inters_repeat_main": "ca-app-pub-5100438264160728/",
-	  "admob_openAd": "ca-app-pub-5100438264160728/",
-      "admob_reward": "ca-app-pub-5100438264160728/",
+	  "inters_home": "ca-app-pub-5100438264160728/5099756386",
+	  "inters_main": "ca-app-pub-5100438264160728/5099756386",
+	  "inters_exit_world": "ca-app-pub-5100438264160728/5099756386",
+	  "inters_repeat_main": "ca-app-pub-5100438264160728/5099756386",
+	  "admob_openAd": "ca-app-pub-5100438264160728/7761578747",
+      "admob_reward": "ca-app-pub-5100438264160728/5288735678",
       "delay_home": 10000,
 	  "delay_main": 50000,
       "delay_repeat_main": 120000,
@@ -15,7 +15,7 @@
       "first_unity_ads": 40000,
       "repeat_unity_ads": 360000,
 	  "latest_version": "1",
-	  "play_store_url": "https://play.google.com/store/apps/details?id=com.xxxxxxxx.xxxxxxxx"
+	  "play_store_url": "https://play.google.com/store/apps/details?id=com.kepitingdev.horrormimicer.callingyou"
     }
   ]
 }

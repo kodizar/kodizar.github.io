@@ -26,6 +26,11 @@
       "file": "https://raw.githubusercontent.com/kodizar/majula/main/irmodti.zip"
     },
 	{
+      "name": "Verity",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/verhot.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/verizon.zip"
+    },
+	{
       "name": "Alien Watch",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/beluh.jpg",
       "file": "https://github.com/elisjaenudin/koleket/releases/download/candil/alisepu.zip"
@@ -159,11 +164,6 @@
       "name": "The Mimicer",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/mimicer.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/mimicer.zip"
-    },
-	{
-      "name": "Verity Horror",
-      "image": "https://raw.githubusercontent.com/kodizar/majula/main/verity.jpg",
-      "file": "https://github.com/kodizar/majula/releases/download/lotek/verity.zip"
     },
     {
       "name": "The 99 Night in forest",

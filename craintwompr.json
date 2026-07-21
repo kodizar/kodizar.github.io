@@ -66,6 +66,11 @@
       "file": "https://github.com/kodizar/majula/releases/download/lotek/horrorpocong.zip"
     },
 	{
+      "name": "Verity",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/verhot.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/verizon.zip"
+    },
+	{
       "name": "Titan Toilet",
       "image": "https://raw.githubusercontent.com/kodizar/majula/main/toimul.jpg",
       "file": "https://github.com/elisjaenudin/kamarang/releases/download/v1.0.0/monster1.zip"
@@ -99,11 +104,6 @@
       "name": "The Mimicer",
       "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/mimicer.jpg",
       "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/mimicer.zip"
-    },
-	{
-      "name": "Verity Survival",
-      "image": "https://raw.githubusercontent.com/kodizar/majula/main/verity.jpg",
-      "file": "https://github.com/kodizar/majula/releases/download/lotek/verity.zip"
     },
 	{
       "name": "Morph Into Mutants",

@@ -3,11 +3,11 @@
     {
 	  "inters_home": "ca-app-pub-3940256099942544/1033173712",
 	  "inters_main": "ca-app-pub-3940256099942544/1033173712",
+	  "inters_play": "ca-app-pub-3940256099942544/8691691433",
 	  "inters_enter_world": "ca-app-pub-3940256099942544/8691691433",
 	  "inters_exit_world": "ca-app-pub-3940256099942544/1033173712",
 	  "inters_repeat_main": "ca-app-pub-3940256099942544/8691691433",
 	  "admob_openAd": "ca-app-pub-3940256099942544/9257395921",
-      "admob_reward": "ca-app-pub-3940256099942544/5224354917",
       "delay_home": 10000,
 	  "delay_main": 45000,
       "delay_repeat_main": 250000,

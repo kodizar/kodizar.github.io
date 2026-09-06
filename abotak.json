@@ -1,0 +1,53 @@
+{
+  "maps": [
+    {
+      "name": "Craftsmaster Deluxe",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/delulife.jpeg",
+      "file": "https://github.com/kodizar/awalberlalu/releases/download/bergantiru/delulife.mcworld"
+    },
+	{
+      "name": "Realistic modern house",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/reamodhou.jpeg",
+      "file": "https://github.com/kodizar/awalberlalu/releases/download/bergantiru/reamodhou.mcworld"
+    },
+	{
+      "name": "Farm Ville",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/farmvil.jpeg",
+      "file": "https://github.com/kodizar/awalberlalu/releases/download/bergantiru/farmvil.mcworld"
+    },
+	{
+      "name": "Furniture Modern House",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/furnimohou.jpeg",
+      "file": "https://github.com/kodizar/awalberlalu/releases/download/bergantiru/furnimohou.mcworld"
+    }
+  ],
+  "addons": [
+    {
+      "name": "Verity Mod Addon",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/mandrock.jpg",
+      "file": "https://github.com/kodizar/awalberlalu/releases/download/bergantiru/koverit.mcaddon"
+    },
+	{
+      "name": "IronHero Mod Addon",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/mandrock.jpg",
+      "file": "https://github.com/kodizar/awalberlalu/releases/download/bergantiru/suironher.mcaddon"
+    },
+    {
+      "name": "Dragons Mod Addon",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/empiro.jpg",
+      "file": "https://github.com/kodizar/awalberlalu/releases/download/bergantiru/kadragon.mcaddon"
+    }
+  ],
+  "skins": [
+    {
+      "name": "Ben Alien 10 Skin",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kurupuk/main/beluh.jpg",
+      "file": "https://github.com/kodizar/awalberlalu/releases/download/skonpak/bensepul.mcpack"
+    },
+    {
+      "name": "Cyberpunk Boy Skin",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/stukotak.jpg",
+      "file": "https://github.com/kodizar/awalberlalu/releases/download/skonpak/cepeskir.mcpack"
+    }
+  ]
+}

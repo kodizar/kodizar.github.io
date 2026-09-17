@@ -1,0 +1,34 @@
+{
+  "maps": [
+	{
+      "name": "One Block",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/stukotak.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/stukotak.zip"
+    },
+    {
+      "name": "Luckyblock Island",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/laskotak.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/laskotak.zip"
+    },
+	{
+      "name": "Ultimate Skyblock",
+      "image": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/flykotak.jpg",
+      "file": "https://raw.githubusercontent.com/elisjaenudin/kamarang/main/flykotak.zip"
+    },
+	{
+      "name": "Zoo Tycoon",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/zotyco.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/zotyco.zip"
+    },
+	{
+      "name": "Dragon World",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/drawod.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/majula/main/drawod.zip"
+    },
+	{
+      "name": "Dino World",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/dinwor.jpg",
+      "file": "https://github.com/kodizar/majula/releases/download/lotek/dinwor.zip"
+    }
+  ]
+}

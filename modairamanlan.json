@@ -56,6 +56,26 @@
       "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/delulife.mcworld"
     },
 	{
+      "name": "Nuansa Indonesia",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/nuandon.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/bocildo/nuandon.mcworld"
+    },
+	{
+      "name": "Bus Pariwisata",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/mizubus.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/bocildo/mizubus.mcworld"
+    },
+	{
+      "name": "Nuansa Ramadhan",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/nuanramad.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/bocildo/nuanramad.mcworld"
+    },
+	{
+      "name": "Kereta Kota MeyKorta",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/nuankakot.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/bocildo/nuankakot.mcworld"
+    },
+	{
       "name": "Zoo Tycoon",
       "image": "https://raw.githubusercontent.com/kodizar/majula/main/zotyco.jpg",
       "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/zotyco.mcworld"

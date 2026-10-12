@@ -454,15 +454,15 @@
     }
   ],
   "skins": [
-    {
-      "name": "1000+ Skins",
-      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/cepeskir.jpg",
-      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/cepeskir.mcpack"
-    },
 	{
       "name": "Legend",
       "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/legend.jpg",
       "file": "https://github.com/manawangsa/paduwae/releases/download/burik/legend.mcpack"
+    },
+	{
+      "name": "1000+ Skins",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/cepeskir.jpg",
+      "file": "https://github.com/manawangsa/paduwae/releases/download/burik/cepeskir.mcpack"
     },
 	{
       "name": "Youtuber Skins",

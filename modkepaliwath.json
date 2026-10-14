@@ -313,6 +313,11 @@
       "file": "https://github.com/manawangsa/sukropak/releases/download/nangka/evoverzot.mcaddon"
     },
 	{
+      "name": "Steal Brainrot",
+      "image": "https://raw.githubusercontent.com/kodizar/awalberlalu/main/stealbrain.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/awalberlalu/main/stealbrain.mcaddon"
+    },
+	{
       "name": "Animal Hospital",
       "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/animahozot.jpg",
       "file": "https://github.com/manawangsa/sukropak/releases/download/nangka/animahozot.mcaddon"
@@ -361,6 +366,11 @@
       "name": "Parasites",
       "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/parasimon.jpg",
       "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/parasimon.mcaddon"
+    },
+	{
+      "name": "Freddy Night",
+      "image": "https://raw.githubusercontent.com/kodizar/awalberlalu/main/freddynigo.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/awalberlalu/main/freddynight.mcaddon"
     },
 	{
       "name": "Jackie FNAF Mimic",

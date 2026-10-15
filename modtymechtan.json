@@ -16,6 +16,11 @@
       "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/monster2.mcworld"
     },
 	{
+      "name": "Verity",
+      "image": "https://raw.githubusercontent.com/kodizar/majula/main/verhot.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/minvery.mcworld"
+    },
+	{
       "name": "Gundam Robo",
       "image": "https://raw.githubusercontent.com/kodizar/majula/main/gunrobo.jpg",
       "file": "https://github.com/manawangsa/sukropak/releases/download/muncang/gunrobo.mcworld"
@@ -278,6 +283,11 @@
       "file": "https://github.com/manawangsa/sukropak/releases/download/nangka/titanali.mcaddon"
     },
 	{
+      "name": "Verity",
+      "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/verzot.jpg",
+      "file": "https://github.com/manawangsa/sukropak/releases/download/bawang/verzot.mcaddon"
+    },
+	{
       "name": "Falsity",
       "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/falzotir.jpg",
       "file": "https://github.com/manawangsa/sukropak/releases/download/nangka/falzotir.mcaddon"
@@ -306,6 +316,16 @@
       "name": "Gugugaga Penguin",
       "image": "https://raw.githubusercontent.com/manawangsa/sukropak/main/gugapeng.jpg",
       "file": "https://github.com/manawangsa/sukropak/releases/download/nangka/gugapeng.mcaddon"
+    },
+	{
+      "name": "Steal Brainrot",
+      "image": "https://raw.githubusercontent.com/kodizar/awalberlalu/main/stealbrain.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/awalberlalu/main/stealbrain.mcaddon"
+    },
+	{
+      "name": "Freddy Night",
+      "image": "https://raw.githubusercontent.com/kodizar/awalberlalu/main/freddynigo.jpg",
+      "file": "https://raw.githubusercontent.com/kodizar/awalberlalu/main/freddynight.mcaddon"
     },
 	{
       "name": "Ben Alien Watch",
